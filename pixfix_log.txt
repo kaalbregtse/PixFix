@@ -1,0 +1,30 @@
+[2025-09-30 15:01:26] Skipped (already thumbnailed): 10women-gettyimages-slide-K1E2-superJumbo.jpg
+[2025-09-30 15:01:26] Skipped (underscore in filename): 360_F_1631527422_oUcyq77cY7337fAfBM3y52VyF9nwLq17.jpg
+[2025-09-30 15:01:26] Skipped (underscore in filename): 5aaa1cc4c422b-funny-weird-wtf-stock-photos-28-5a3a5b135f099__700-landscape-53b2b5789c8885ff7b66fb69338c8591-zybravgx2q47.jpg
+[2025-09-30 15:01:26] Skipped (underscore in filename): 637627ca9eebde45ae5f394c_Underwater-Nun.jpg
+[2025-09-30 15:01:26] Skipped (already thumbnailed): 960x0.jpg
+[2025-09-30 15:01:26] Skipped (already thumbnailed): images.jpg
+[2025-09-30 15:01:26] Skipped (already thumbnailed): istockphoto-1326417862-612x612.jpg
+[2025-09-30 15:01:26] Skipped (already thumbnailed): pexels-photo-897817.jpg
+[2025-09-30 15:01:26] Skipped (underscore in filename): shutterstock_451077043-hero1.jpg
+[2025-09-30 15:01:26] Batch complete: All images saved successfully.
+[2025-09-30 15:02:03] Skipped (already thumbnailed): 10women-gettyimages-slide-K1E2-superJumbo.jpg
+[2025-09-30 15:02:03] Skipped (underscore in filename): 360_F_1631527422_oUcyq77cY7337fAfBM3y52VyF9nwLq17.jpg
+[2025-09-30 15:02:03] Skipped (underscore in filename): 5aaa1cc4c422b-funny-weird-wtf-stock-photos-28-5a3a5b135f099__700-landscape-53b2b5789c8885ff7b66fb69338c8591-zybravgx2q47.jpg
+[2025-09-30 15:02:03] Skipped (underscore in filename): 637627ca9eebde45ae5f394c_Underwater-Nun.jpg
+[2025-09-30 15:02:03] Skipped (already thumbnailed): 960x0.jpg
+[2025-09-30 15:02:03] Skipped (already thumbnailed): images.jpg
+[2025-09-30 15:02:03] Skipped (already thumbnailed): istockphoto-1326417862-612x612.jpg
+[2025-09-30 15:02:03] Skipped (already thumbnailed): pexels-photo-897817.jpg
+[2025-09-30 15:02:03] Skipped (underscore in filename): shutterstock_451077043-hero1.jpg
+[2025-09-30 15:02:03] Batch complete: All images saved successfully.
+[2025-09-30 15:02:11] Processed: 10women-gettyimages-slide-K1E2-superJumbo.jpg
+[2025-09-30 15:02:11] Skipped (underscore in filename): 360_F_1631527422_oUcyq77cY7337fAfBM3y52VyF9nwLq17.jpg
+[2025-09-30 15:02:11] Skipped (underscore in filename): 5aaa1cc4c422b-funny-weird-wtf-stock-photos-28-5a3a5b135f099__700-landscape-53b2b5789c8885ff7b66fb69338c8591-zybravgx2q47.jpg
+[2025-09-30 15:02:11] Skipped (underscore in filename): 637627ca9eebde45ae5f394c_Underwater-Nun.jpg
+[2025-09-30 15:02:11] Processed: 960x0.jpg
+[2025-09-30 15:02:11] Processed: images.jpg
+[2025-09-30 15:02:11] Processed: istockphoto-1326417862-612x612.jpg
+[2025-09-30 15:02:11] Processed: pexels-photo-897817.jpg
+[2025-09-30 15:02:11] Skipped (underscore in filename): shutterstock_451077043-hero1.jpg
+[2025-09-30 15:02:11] Batch complete: All images saved successfully.
